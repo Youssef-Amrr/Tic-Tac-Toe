@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
 Tic-Tac-Toe implemented by OOP Java
+Tic-tac-toe game is designed with variable grid dimensions (dimension 6x7 in our case) where 6 is number of rows and 7 is the number of columns. There are two players. The first player will be prompted to enter his name and is set for the 'X' character as default. The second player will be asked for his name as well and will be assigned the 'O' character. Each player will be asked to put his character in the place of his choice using a dialog box. Players will alternate turns until a win or a draw happens. The winner of the game is the one who completed 3 connected characters (i.e.horizontal, vertical or diagonal). If no one wins the game, the game is considered to be draw. 
